@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+p {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.semiDiv {
+    align-items: center; 
+    justify-content: center; 
+    display: flex;
+    background-color: hsl(212, 45%, 89%);
+    border-radius: 20px;
+    position: relative;
+    top: 5rem;
+    padding: 40px;
+}
+.card {
+    padding: 20px;
+}
+.image {
+    height: 60%;
+    border-radius: 20px;
+}
